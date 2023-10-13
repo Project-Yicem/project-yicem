@@ -1,2 +1,1 @@
-# project-yicem
-Senior project for Bilkent Computer Science
+# Visit https://yagozk.github.io/bilkent-senior-project/
