@@ -1,1 +1,1 @@
-# Visit https://yagozk.github.io/bilkent-senior-project/
+# Visit https://project-yicem.github.io/yicem-project-page/
